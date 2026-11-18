@@ -12,6 +12,8 @@ license: mit
 
 # Multi-Agent Retrieval-Augmented Generation (RAG) Platform for Support Operations
 
+**Live demo:** https://huggingface.co/spaces/LithiVR/multi-agent-rag-platform (Gradio demo on Hugging Face Spaces, same project logic; Streamlit version in `app.py`)
+
 > **Demo notice:** This is a scaled-down public reproduction with a **sample support
 > corpus (~30 synthetic articles in `corpus/`)**. Answers are **extractive** from the
 > retrieved articles — no paid LLM API key is required or used.
